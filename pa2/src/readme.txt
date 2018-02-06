@@ -1,6 +1,4 @@
-電機三  b03208022   李友岐      
-
-                 email: b03208022@ntu.edu.tw
+Author: 李友岐
   programming language: C++
            environment: Mac 
 To compile,please type: g++ test2.cpp binTree.cpp -o hw2.out
